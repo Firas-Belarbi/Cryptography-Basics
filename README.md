@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Firas-Belarbi/Cryptography-Basics/main/Gemini_Generated_Image_x9em8jx9em8jx9em.png" width="750">
+</p>
+
+
+
+
 # Cryptography Basics — Summary Notes
 
 Cryptography is a fundamental pillar of cybersecurity. It ensures **Confidentiality**, **Integrity**, and **Authenticity** of data in environments where attackers may intercept or manipulate information. These concepts shape how modern secure communication works across the internet.
